@@ -4,5 +4,6 @@ packages:
 allowBuilds:
   '@firebase/util': true
   esbuild: true
+  pnpm: false
   protobufjs: true
   sharp: true
